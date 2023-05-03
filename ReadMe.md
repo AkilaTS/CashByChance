@@ -3,7 +3,7 @@
 Cash By Chance is a combination of a wallet/upi app with automatic smart investment integration. It would make the entire investment process completely painless. 
 This project has won the first position in the SeniHers projects of the DESIS Ascend Educare program 2022.
 
-Link to the program : [Desis Ascend Educare 2022](https://www.deshawindia.com/desis-ascend-educare/about.pdf)
+Link to the program : <a href="https://www.deshawindia.com/desis-ascend-educare/about.pdf" target="_blank">Desis Ascend Educare 2022</a>
 
 ## How would this work?
 
