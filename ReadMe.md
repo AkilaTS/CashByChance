@@ -27,7 +27,7 @@ Refer to the Readme of the following four folders to get better understanding of
 ### By : SeniHers Group 5 
 ###### Mentor   -   Chaitanya Chitneedi
 ##### Mentees - 
- 1. Akila Sivakumar
+ 1. Akila Tharini Sivakumar
  2. Kanishka Thakran
  3. Neha Tiwari
  4. Nikita Singh
